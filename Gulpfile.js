@@ -1,10 +1,10 @@
 'use strict';
 
 var gulp = require('gulp'),
-  nodemon = require('gulp-nodemon'),
-  watch = require('gulp-watch'),
-  jshint = require('gulp-jshint'),
-  livereload = require('gulp-livereload');
+    nodemon = require('gulp-nodemon'),
+    watch = require('gulp-watch'),
+    jshint = require('gulp-jshint'),
+    livereload = require('gulp-livereload');
 
 
 //register nodemon task
