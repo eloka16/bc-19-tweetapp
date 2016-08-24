@@ -1,0 +1,22 @@
+{
+  "name": "sentimental-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "analysis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloka16/bc-19-Twitter-sentimental-analysis.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Henry Chukwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloka16/bc-19-Twitter-sentimental-analysis/issues"
+  },
+  "homepage": "https://github.com/eloka16/bc-19-Twitter-sentimental-analysis#readme"
+}
